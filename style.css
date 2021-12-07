@@ -11,5 +11,5 @@ h1{color:grey;font-family:verdana}
 }
 .footer {
     position: relative;
-    top: 0px;
+    top: -100px;
 }
