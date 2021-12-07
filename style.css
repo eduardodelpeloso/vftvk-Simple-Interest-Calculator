@@ -4,12 +4,9 @@ h1{color:grey;font-family:verdana}
     background-color: white;
     color: black;
     width: 500px;
+    height: auto;
     padding: 20px;
     border-radius: 25px;
     text-align: left;
     margin: 0 auto
-}
-.footer {
-    position: relative;
-    top: -100px;
 }
